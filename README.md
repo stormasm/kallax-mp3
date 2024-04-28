@@ -1,1 +1,2 @@
-# kallax-mp3
+
+Example of a file that has the album picture that Kallax can display...
